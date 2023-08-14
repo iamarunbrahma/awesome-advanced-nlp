@@ -1,2 +1,2 @@
-# Advanced NLP: List of projects:
-WIP
+# Advanced NLP: List of projects
+## WIP
