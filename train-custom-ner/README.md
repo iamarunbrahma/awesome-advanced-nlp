@@ -1,5 +1,5 @@
 
-# Train a custom NER
+# Train a custom NER Model
 
 In order to train a custom NER model, you have to follow these steps.
 
