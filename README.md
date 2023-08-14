@@ -1,2 +1,2 @@
-# Advanced NLP: List of projects
+# Awesome Advanced NLP: List of NLP Projects
 ## WIP
