@@ -20,3 +20,5 @@ _Note: If you don't have test dataset, you can mention `./train.spacy` in place 
 Load the best model from `./output` directory and then test it using Spacy's NER module.
 
 _Note: Run `custom-ner.ipynb` notebook for model training and testing of custom NER model._
+
+_If you like this project, please star this repository._
